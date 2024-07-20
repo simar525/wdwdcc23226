@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "https://shopsy.frontly.ai/login"
+      "destination": "https://shopsy.frontly.ai/signup"
  },
       {
       "source": "/(.*)",
