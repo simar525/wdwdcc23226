@@ -1,8 +1,12 @@
 {
   "rewrites": [
     {
+      "source": "/",
+      "destination": "https://shopsy.frontly.ai/login"
+ },
+      {
       "source": "/(.*)",
-      "destination": "https://shopsy.frontly.ai/?s_id=Harji+Gems/$1"
+      "destination": "https://shopsy.frontly.ai/$1"
  }
   ]
 }
