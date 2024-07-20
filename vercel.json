@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://shopsy.frontly.ai/?s_id=Harji+Gems/$1"
+ }
+  ]
+}
